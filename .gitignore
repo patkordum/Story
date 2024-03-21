@@ -1,0 +1,5 @@
+# Ignore Password-File
+secrets.txt
+
+# Ignore Log-Files
+*.log
